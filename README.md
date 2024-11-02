@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a french computer science student with passion for game and software tool development.
 <!--
 **ledwastaken/ledwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
